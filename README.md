@@ -11,6 +11,7 @@ Addresses to check in IDA / Ghidra / PeekPoker
 
 
 New list of working console commands:
+
 todsetphase 0.25 - set any number to change time of day
 
 togglebloom - toggle bloom on and off
