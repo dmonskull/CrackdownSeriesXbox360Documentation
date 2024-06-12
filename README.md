@@ -12,9 +12,15 @@ Addresses to check in IDA / Ghidra / PeekPoker
 
 New list of working console commands:
 todsetphase 0.25 - set any number to change time of day
+
 togglebloom - toggle bloom on and off
+
 toggleafterlights - toggle lights after dark
+
 togglevehiclelights - toggle vehicle lights
+
 toggleshadows - toggle shadows
+
 toggleoutlines - toggle outlines
+
 ToggleTactileFeedback - toggle controller vibrations from gunfire, etc.
