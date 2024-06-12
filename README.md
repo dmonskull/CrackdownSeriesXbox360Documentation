@@ -10,6 +10,8 @@ Addresses to check in IDA / Ghidra / PeekPoker
 8325DFB8 - possibly where value is stored for checking if console command should be sent in offline/online state.
 
 
+
+
 New list of working console commands:
 
 todsetphase 0.25 - set any number to change time of day
