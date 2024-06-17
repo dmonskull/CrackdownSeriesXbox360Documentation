@@ -3,6 +3,9 @@ My Research and Documentation on Crackdown for the Xbox 360.
 by: DMON / DMONSKULL
 -------------------------------------------------------------
 
+
+Stuff for Latest Update Retail Crackdown:
+
 Addresses to check in IDA / Ghidra / PeekPoker
 
 82AE69D8 - possibly where the game checks if the debug menu should be activated
