@@ -9,7 +9,7 @@ Addresses to check in IDA / Ghidra / PeekPoker
 
 82AE69D8 - possibly where the game checks if the debug menu should be activated
 
-8325DFB8 - possibly where value is stored for checking if console command should be sent in offline/online state.
+8325DFB8 - possibly the offset for checking if console command should be sent in offline/online state.
 
 
 New list of working console commands:
