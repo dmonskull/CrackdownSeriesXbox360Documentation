@@ -1,6 +1,4 @@
 # Crackdown Xbox360 Documentation + MORE
--------------------------------------------------------------
-
 
 # Stuff for Latest Update Retail Crackdown:
 
