@@ -3,7 +3,7 @@ My Research and Documentation on Crackdown for the Xbox 360.
 -------------------------------------------------------------
 
 
-Stuff for Latest Update Retail Crackdown:
+# Stuff for Latest Update Retail Crackdown:
 
 Addresses to check in IDA / Ghidra / PeekPoker
 
@@ -12,7 +12,7 @@ Addresses to check in IDA / Ghidra / PeekPoker
 8325DFB8 - possibly the offset for checking if console command should be sent in offline/online state.
 
 
-New list of working console commands:
+# New list of working console commands:
 
 todsetphase 0.25 - set any number to change time of day
 
