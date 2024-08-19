@@ -30,15 +30,15 @@ ToggleTactileFeedback - toggle controller vibrations from gunfire, etc.
 # Crackdown 2 Xbox 360 Documentation + MORE
 you can find consolecommands for Crackdown 2 below
 
-#-Offsets-
+# Offsets
 0x82771EB0 - ConsoleCommand
 #-FloatOffsets-
 
-#-DebugStuff-
+# Debug Stuff
 toggledebuginput - Toggle Debug Input for Final
 minp - Binds input key(s) to an action
 
-#-Misc-
+# Misc
 test_deity_ray - Create test deity ray effect
 kill_deity_ray - Terminate test deity ray effect
 pause - Pauses game logic
@@ -69,7 +69,7 @@ showlpt - Toggles launch pad trajectory rendering
 setscaler - setscaler NAME # | <NAME> <#> - Sets the named performance scaler to the specified value"
 
 
-#-Lua&Scripting-
+# Lua & Scripting
 D:\\Scripts\\%S* .lua
 lua - Executes a chunk of lua script.script
 luafile - Executes a lua script filescript
@@ -81,13 +81,13 @@ ScriptDebuggerOn - Decides whether ScriptDebugger should be run
 editscripts - Toggles / sets whether scripts will be loaded individually off disk. Must be set in userstartup to take effect
 
 
-#-GamemodeStuff-
+# Gamemode Stuff
 completewave - Complete Current Wave immediately
 TogglePBM - Toggle points based multiplier rather than combo based.
 givesunburstpowerup - Give sunburst power up. (givesunburstpowerup 1 Infinite Fuel | 2 Time Extend | 3 Max Health Armour | 4 Quad Damage | 5 Stealth | 6 Infinite Ammo | 7 Invulnerability | 9 Random | 10 Linear)"
 
 
-#-PlayerStuff-
+# Player Stuff
 god - Toggles player character invulnerable to damage
 infiniteammo - Give player infinite ammo
 loaded - Gives the player all available equipment
@@ -122,7 +122,7 @@ explosiveskill
 athleticskill
 
 
-#-Lobby&Matchmaking-
+# Lobby&Matchmaking
 maxplayers - Set max players (maxplayers 18)
 setminplayers - Set minimum players needed to access a public game
 toggleAllowForceHost - Toggles whether the force host option is available
@@ -131,7 +131,7 @@ forceshowbadconnectionhud - Forces the Bad connection HUD to display
 toggletargetlag - Set target to lag
 ignorenetworkdisconnects - Toggle handling of network disconnects.
 
-#-Weather&Enviroment-
+# Weather&Enviroment
 forcelod - forcelod #
 forceskytod - Forces sky time of day
 disableforceskytod - Stop forcing sky TOD
@@ -149,7 +149,7 @@ togglealphapass - Toggle the alpha render pass
 toggleoutlines - Toggle the rendering of outlines
 togglewaterpass - Toggle the water render pass
 
-#-Weapons-
+# Weapons
 MP_WEPGEN03_Demp90A
 WEPGEN11_SticklerGrenade
 WEPGEN04_MachHMG120
@@ -196,7 +196,7 @@ WEPAGY10_PekingDuck
 WEPAGY06_Flocket
 WEPAGY15_UVGrenade
 
-#-Items-
+# Items
 PRPGL001_Duck
 PRPGL018_Commuter
 PRPGL018_DeliveryVan
@@ -268,7 +268,7 @@ PRPMS010_Breech_Inactive
 PRPMS003_PowerStation_Club
 PRPMS012_Missile
 
-#-AI&Characters-
+# AI & Characters
 AICHACEL01_BCellSmg
 AICHACEL02_BCellRocket
 AICHACEL03_BCellShotgun
