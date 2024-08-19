@@ -16,6 +16,74 @@ Addresses to check in IDA / Ghidra / PeekPoker
 
 # New list of working console commands for Crackdown:
 
+spdup
+
+spddn
+
+dpgoto Scheduler
+
+nextchar
+
+prevchar
+
+nextvehicle
+
+prevvehicle
+
+resetmetrics
+
+dan
+
+fly
+
+suicide
+
+flymode
+
+crcam
+
+fpcam
+
+reloadshaders
+
+fps
+
+helicam
+
+forceintovehicle
+
+allskills 1
+
+allskills 2
+
+allskills 3
+
+allskills 4
+
+allskills 5
+
+loaded
+
+god
+
+posinfo
+
+ToggleShortKeys
+
+hud
+
+screencapture
+
+startmc
+
+resetpeaks
+
+growtimertree
+
+stopmc
+
+lastcmd
+
 todsetphase 0.25 - set any number to change time of day
 
 togglebloom - toggle bloom on and off
