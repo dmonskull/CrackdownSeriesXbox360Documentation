@@ -31,7 +31,6 @@ ToggleTactileFeedback - toggle controller vibrations from gunfire, etc.
 
 # Offsets
 0x82771EB0 - ConsoleCommand
-#-FloatOffsets-
 
 # New list of working console commands for Crackdown 2:
 # Debug Stuff
