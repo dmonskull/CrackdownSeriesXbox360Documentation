@@ -35,37 +35,67 @@ ToggleTactileFeedback - toggle controller vibrations from gunfire, etc.
 # New list of working console commands for Crackdown 2:
 # Debug Stuff
 toggledebuginput - Toggle Debug Input for Final
+
 minp - Binds input key(s) to an action
 
 # Misc
+
 test_deity_ray - Create test deity ray effect
+
 kill_deity_ray - Terminate test deity ray effect
+
 pause - Pauses game logic
+
 togglemotionblur - Toggle motion blur
+
 toggleparticlealpha
+
 widescreen - Toggles aspect between 4:3 and 16:9
+
 toggleHUD - Toggles HUD on / off
+
 DisableMiniGames - Disables mini-game scripts. Must be set in userstartup to take effect
+
 toggleConference - Toggles Conference config
+
 togglelicensesetting - Toggles all dlc license setting free / paid
+
 toggledlcloadiffound - Toggles whether we load DLC if found or not
+
 togglelicenseoverride - Toggles all dlc license override on / off
+
 purchase_dlc - Simulates purchase of a DLC offer
+
 ignore_dlc_resources - Ignores checks for available resources when activating DLC
+
 showstunttext - Show stunt completion text. Args: [stunt type] [current] [total]
+
 summon - summon NAMEOFITEM
+
 toggleorbs - Toggles agility/hidden orbs
+
 apocalypse
+
 setonfire - Sets the players target on fire
+
 rain - Sets it to rain around the player
+
 instagib - Instantly kills player's target
+
 combust - The target combusts
+
 StunAllCharacters - Stun all the AI characters in the volume.
+
 deleteallweapons - Delete all weapons that the AI have.
+
 ui_showallorbs - Shows all orbs on the UI map screen
+
 ui_showalllogs - Shows all logs on the UI map screen
+
 showlpt - Toggles launch pad trajectory rendering
-setscaler - setscaler NAME # | <NAME> <#> - Sets the named performance scaler to the specified value"
+
+setscaler - setscaler NAME # | <NAME> <#> - Sets the named performance scaler to the specified value
+
 
 
 # Lua & Scripting
