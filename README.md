@@ -137,7 +137,7 @@ infiniteammo - Give player infinite ammo
 
 loaded - Gives the player all available equipment
 
-addweapon - Gives the player a specified weapon
+addweapon - Gives the player a specified weapon | example: addweapon "WEPGEN06_Glauncher"
 
 transformplayer - tests transform vfx
 
