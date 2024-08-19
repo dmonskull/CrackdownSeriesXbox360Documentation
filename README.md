@@ -1,6 +1,6 @@
 # Crackdown Xbox360 Documentation + MORE
 
-# Stuff for Latest Update Retail Crackdown:
+# Everything you find here is for the latest update for retail versions of both games!
 
 Addresses to check in IDA / Ghidra / PeekPoker
 
