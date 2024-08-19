@@ -1,6 +1,8 @@
-# Crackdown Xbox360 Documentation + MORE
+# Crackdown 1 & 2 Xbox 360 Documentation + MORE
 
 # Everything you find here is for the latest update for retail versions of both games!
+
+# Crackdown:
 
 Addresses to check in IDA / Ghidra / PeekPoker
 
@@ -27,7 +29,7 @@ ToggleTactileFeedback - toggle controller vibrations from gunfire, etc.
 
 
 
-# Crackdown 2 Xbox 360 Documentation + MORE
+# Crackdown 2:
 
 # Offsets
 0x82771EB0 - ConsoleCommand
