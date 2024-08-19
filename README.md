@@ -38,7 +38,7 @@ ToggleTactileFeedback - toggle controller vibrations from gunfire, etc.
 # Debug Stuff
 toggledebuginput - Toggle Debug Input for Final
 
-minp - Binds input key(s) to an action
+minp - Binds input key(s) to an action | example: minp press VK_XENON_DPAD_U "cheat_menu_up" | minp [action] [button] ["command"]
 
 # Misc
 
