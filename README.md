@@ -9,7 +9,7 @@ Addresses to check in IDA / Ghidra / PeekPoker
 8325DFB8 - possibly the offset for checking if console command should be sent in offline/online state.
 
 
-# New list of working console commands:
+# New list of working console commands for Crackdown:
 
 todsetphase 0.25 - set any number to change time of day
 
@@ -28,12 +28,12 @@ ToggleTactileFeedback - toggle controller vibrations from gunfire, etc.
 
 
 # Crackdown 2 Xbox 360 Documentation + MORE
-you can find consolecommands for Crackdown 2 below
 
 # Offsets
 0x82771EB0 - ConsoleCommand
 #-FloatOffsets-
 
+# New list of working console commands for Crackdown 2:
 # Debug Stuff
 toggledebuginput - Toggle Debug Input for Final
 minp - Binds input key(s) to an action
