@@ -682,6 +682,8 @@ AICHAREA03_BReaperAgent
 
 AICHAREA03_Midget_BReaperAgent
 
+AICHAGOL01_BGoliath
+
 
 # Vehicles
 VEHCEL14_ArcticTruck
