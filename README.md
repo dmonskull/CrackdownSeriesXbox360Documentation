@@ -447,6 +447,16 @@ WEPFRK12_GoliathRockBomb
 
 WEPFRK10_AcidClusterBomb
 
+WEPGAD10_BoostPack
+
+WEPGAD11_PortableLaunchPad
+
+WEPGAD03_Mags
+
+WEPGAD01_Harpoon_BoltRender
+
+WEPGAD01_Harpoon
+
 
 # Items
 PRPGL001_Duck
