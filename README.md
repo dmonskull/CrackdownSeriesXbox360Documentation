@@ -443,6 +443,10 @@ WEPTUR02_FLOCKET
 
 WEPTUR01_MACHGUN
 
+WEPFRK12_GoliathRockBomb
+
+WEPFRK10_AcidClusterBomb
+
 
 # Items
 PRPGL001_Duck
