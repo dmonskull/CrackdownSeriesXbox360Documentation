@@ -16,6 +16,7 @@ Addresses to check in IDA / Ghidra / PeekPoker
 
 
 # New list of working console commands for Crackdown:
+luafile - Executes a lua script filescript | luafile %s%S | luafile D:\\Scripts\\%s*.lua
 
 bind - bind command to button | Example: bind 1 "allskills 1"
 
@@ -183,7 +184,7 @@ D:\\Scripts\\%S* .lua
 
 lua - Executes a chunk of lua script.script
 
-luafile - Executes a lua script filescript
+luafile - Executes a lua script filescript | luafile %s%S | luafile D:\\Scripts\\%s*.lua
 
 emitluacalls - Emits whenever Lua is called
 
