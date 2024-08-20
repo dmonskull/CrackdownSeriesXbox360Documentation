@@ -119,6 +119,8 @@ bind - bind command to button | Example: bind 1 "allskills 1"
 
 # Misc
 
+duck! - Spawns ducks above enemies
+
 test_deity_ray - Create test deity ray effect
 
 kill_deity_ray - Terminate test deity ray effect
