@@ -125,6 +125,8 @@ test_deity_ray - Create test deity ray effect
 
 kill_deity_ray - Terminate test deity ray effect
 
+tsmdebugtrapezoid - Displays the debug trapezoid graph
+
 pause - Pauses game logic
 
 togglemotionblur - Toggle motion blur
