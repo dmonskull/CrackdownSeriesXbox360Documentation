@@ -2,6 +2,7 @@
 ## Table of Contents
 - [Crackdown](#Crackdown)
 - [Crackdown 2](#Crackdown2)
+- [Extra](#Extra)
 
 # Everything you find here is for the latest update for retail versions of both games!
 
@@ -818,3 +819,45 @@ Vehicle_Sportscar_NonPlayer
 Vehicle_SUV_NonPlayer
 
 Vehicle_Tank_NonPlayer
+
+## Extra
+# Button Names & Mapping
+VK_XENON_DPAD_U
+
+VK_XENON_DPAD_D
+
+VK_XENON_DPAD_L
+
+VK_XENON_DPAD_R
+
+VK_XENON_START
+
+VK_XENON_BACK
+
+VK_XENON_LTHUMB_BUTTON
+
+VK_XENON_RTHUMB_BUTTON
+
+VK_XENON_LSHOULDER
+
+VK_XENON_RSHOULDER
+
+VK_XENON_A
+
+VK_XENON_B
+
+VK_XENON_X
+
+VK_XENON_Y
+
+VK_XENON_LTRIGGER
+
+VK_XENON_RTRIGGER
+
+VK_XENON_LTHUMB_X
+
+VK_XENON_LTHUMB_Y
+
+VK_XENON_RTHUMB_X
+
+VK_XENON_RTHUMB_Y
