@@ -1072,3 +1072,29 @@ VK_PAD_B
 VK_PAD_X
 
 VK_PAD_Y
+
+# Minp Functionality
+
+Actions:
+
+heldless
+
+heldstate
+
+state
+
+press
+
+threshless
+
+threshgreater
+
+Example:
+minp heldless  0.30 VK_XENON_Y "character_entervehicle"
+
+minp heldstate 0.30 VK_XENON_Y "character_activatecamcut"
+
+minp state VK_XENON_B "driving_horn"
+
+minp press VK_XENON_B "driving_togglesiren"
+
