@@ -8,13 +8,7 @@
 
 ## Crackdown:
 
-INI files found in debug builds for Crackdown 1:
-
-console.ini
-
-toolbox.ini
-
-userstartup.ini
+INI & LUA files found in debug builds for Crackdown 1 can be found in this repo!
 
 Addresses to check in IDA / Ghidra / PeekPoker
 
