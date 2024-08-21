@@ -123,7 +123,7 @@ defaultlevel - Sets the default level to load. Standard: pacificcity. Usage: def
 
 # Misc
 
-duck! - Spawns ducks above enemies
+duck! - Spawns ducks above targetted entity
 
 test_deity_ray - Create test deity ray effect
 
