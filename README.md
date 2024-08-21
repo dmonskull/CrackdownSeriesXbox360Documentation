@@ -4,18 +4,18 @@
 - [Console Commands for Crackdown 1](#ConsoleCommandsforCrackdown1)
 - [Crackdown 2](#Crackdown2)
 - [Console Commands for Crackdown 2](#ConsoleCommandsforCrackdown2)
-- [DebugStuff](#DebugStuff)
+- [Debug Stuff](#DebugStuff)
 - [Misc](#Misc)
-- [Lua&Scripting](#Lua&Scripting)
-- [GamemodeStuff](#GamemodeStuff)
-- [PlayerStuff](#PlayerStuff)
+- [Lua & Scripting](#Lua&Scripting)
+- [Gamemode Stuff](#GamemodeStuff)
+- [Player Stuff](#PlayerStuff)
 - [Lobby & Matchmaking](#LobbyAndMatchmaking)
-- [Weather&Enviroment](#Weather&Enviroment)
+- [Weather & Enviroment](#WeatherAndEnviroment)
 - [Weapons](#Weapons)
-- [AI&Characters](#AI&Characters)
+- [AI & Characters](#AIAndCharacters)
 - [Items](#Items)
 - [Vehicles](#Vehicles)
-- [ButtonNames&Mapping](#ButtonNames&Mapping)
+- [Button Names & Mapping](#ButtonNamesAndMapping)
 - [Extra](#Extra)
 
 # Everything you find here works for the latest update on retail versions of both games!
@@ -889,7 +889,7 @@ Vehicle_SUV_NonPlayer
 
 Vehicle_Tank_NonPlayer
 
-## ButtonNames&Mapping
+## ButtonNamesAndMapping
 # Xbox 360 Controller:
 VK_XENON_DPAD_U
 
