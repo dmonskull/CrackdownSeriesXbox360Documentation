@@ -6,6 +6,8 @@
 
 # Everything you find here is for the latest update for retail versions of both games!
 
+## Crackdown:
+
 INI files found in debug builds for Crackdown 1:
 
 console.ini
@@ -13,8 +15,6 @@ console.ini
 toolbox.ini
 
 userstartup.ini
-
-## Crackdown:
 
 Addresses to check in IDA / Ghidra / PeekPoker
 
