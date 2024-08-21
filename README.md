@@ -34,7 +34,7 @@ Addresses to check in IDA / Ghidra / PeekPoker
 ## ConsoleCommandsforCrackdown 1:
 luafile - Executes a lua script filescript | luafile %s%S | luafile D:\\Scripts\\%s*.lua
 
-bind - bind command to button | Example: bind 1 "allskills 1"
+bind - bind command to button | Usage: bind 1 "allskills 1"
 
 spdup
 
@@ -129,9 +129,9 @@ ToggleTactileFeedback - toggle controller vibrations from gunfire, etc.
 ## DebugStuff
 toggledebuginput - Toggle Debug Input for Final
 
-minp - Binds input key(s) to an action | example: minp press VK_XENON_DPAD_U "cheat_menu_up" | minp [action] [button] ["command"]
+minp - Binds input key(s) to an action | Usage: minp press VK_XENON_DPAD_U "cheat_menu_up" | minp [action] [button] ["command"]
 
-bind - bind command to button | Example: bind 1 "allskills 1"
+bind - bind command to button | Usage: bind 1 "allskills 1"
 
 defaultlevel - Sets the default level to load. Standard: pacificcity. Usage: defaultlevel levelname
 
@@ -238,7 +238,7 @@ infiniteammo - Give player infinite ammo
 
 loaded - Gives the player all available equipment
 
-addweapon - Gives the player a specified weapon | example: addweapon "WEPGEN06_Glauncher"
+addweapon - Gives the player a specified weapon | Usage: addweapon "WEPGEN06_Glauncher"
 
 transformplayer - tests transform vfx
 
@@ -1115,7 +1115,7 @@ threshless
 
 threshgreater
 
-Example:
+Usage:
 minp heldless  0.30 VK_XENON_Y "character_entervehicle"
 
 minp heldstate 0.30 VK_XENON_Y "character_activatecamcut"
