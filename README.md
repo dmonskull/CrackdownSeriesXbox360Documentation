@@ -4,7 +4,7 @@
 - [Crackdown 2](#Crackdown2)
 - [Extra](#Extra)
 
-# Everything you find here is for the latest update for retail versions of both games!
+# Everything you find here works for the latest update on retail versions of both games!
 
 ## Crackdown:
 
