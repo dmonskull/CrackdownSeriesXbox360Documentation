@@ -9,7 +9,7 @@
 - [Lua&Scripting](#Lua&Scripting)
 - [GamemodeStuff](#GamemodeStuff)
 - [PlayerStuff](#PlayerStuff)
-- [Lobby&Matchmaking](#Lobby&Matchmaking)
+- [Lobby & Matchmaking](#LobbyAndMatchmaking)
 - [Weather&Enviroment](#Weather&Enviroment)
 - [Weapons](#Weapons)
 - [AI&Characters](#AI&Characters)
@@ -201,7 +201,7 @@ driving_turbo - Use vehicle turbo
 
 
 
-## Lua&Scripting
+## LuaAndScripting
 D:\\Scripts\\%S* .lua
 
 lua - Executes a chunk of lua script.script
@@ -298,7 +298,7 @@ athleticskill
 
 
 
-## Lobby&Matchmaking
+## LobbyAndMatchmaking
 maxplayers - Set max players (maxplayers 18)
 
 setminplayers - Set minimum players needed to access a public game
@@ -318,7 +318,7 @@ ForceJoinOption - Sets which players are allowed to join the session
 SetJoinOption - Usage:SetJoinOption <option> Where <option> is one of: friendsonly or inviteonly
 
 
-## Weather&Enviroment
+## WeatherAndEnviroment
 forcelod - forcelod #
 
 forceskytod - Forces sky time of day
@@ -626,7 +626,7 @@ PRPMS003_PowerStation_Club
 PRPMS012_Missile
 
 
-## AI&Characters
+## AIAndCharacters
 AICHACEL01_BCellSmg
 
 AICHACEL02_BCellRocket
