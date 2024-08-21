@@ -1,7 +1,9 @@
 # Crackdown 1 & 2 Xbox 360 Documentation 📜
 ## Table of Contents
 - [Crackdown](#Crackdown)
+- [Console Commands for Crackdown 1](#ConsoleCommandsforCrackdown1)
 - [Crackdown 2](#Crackdown2)
+- [Console Commands for Crackdown 2](#ConsoleCommandsforCrackdown2)
 - [Misc](#Misc)
 - [Debug Stuff](#DebugStuff)
 - [Lua & Scripting](#Lua&Scripting)
@@ -28,7 +30,7 @@ Addresses to check in IDA / Ghidra / PeekPoker
 8325DFB8 - possibly the offset for checking if console command should be sent in offline/online state.
 
 
-# Console Commands for Crackdown 1:
+## ConsoleCommandsforCrackdown 1:
 luafile - Executes a lua script filescript | luafile %s%S | luafile D:\\Scripts\\%s*.lua
 
 bind - bind command to button | Example: bind 1 "allskills 1"
@@ -122,7 +124,7 @@ ToggleTactileFeedback - toggle controller vibrations from gunfire, etc.
 # Offsets
 0x82771EB0 - ConsoleCommand
 
-# Console Commands for Crackdown 2:
+## ConsoleCommandsforCrackdown2:
 ## DebugStuff
 toggledebuginput - Toggle Debug Input for Final
 
