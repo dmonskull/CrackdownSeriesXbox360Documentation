@@ -2,6 +2,17 @@
 ## Table of Contents
 - [Crackdown](#Crackdown)
 - [Crackdown 2](#Crackdown2)
+- [Misc](#Misc)
+- [Debug Stuff](#DebugStuff)
+- [Lua & Scripting](#Lua&Scripting)
+- [Gamemode Stuff](#GamemodeStuff)
+- [Player Stuff](#PlayerStuff)
+- [Lobby & Matchmaking](#Lobby&Matchmaking)
+- [Weather & Enviroment](#Weather&Enviroment)
+- [Weapons](#Weapons)
+- [AI & Characters](#AI&Characters)
+- [Items](#Items)
+- [Vehicles](#Vehicles)
 - [Extra](#Extra)
 
 # Everything you find here works for the latest update on retail versions of both games!
@@ -112,7 +123,7 @@ ToggleTactileFeedback - toggle controller vibrations from gunfire, etc.
 0x82771EB0 - ConsoleCommand
 
 # New list of working console commands for Crackdown 2:
-# Debug Stuff
+## DebugStuff
 toggledebuginput - Toggle Debug Input for Final
 
 minp - Binds input key(s) to an action | example: minp press VK_XENON_DPAD_U "cheat_menu_up" | minp [action] [button] ["command"]
@@ -121,7 +132,7 @@ bind - bind command to button | Example: bind 1 "allskills 1"
 
 defaultlevel - Sets the default level to load. Standard: pacificcity. Usage: defaultlevel levelname
 
-# Misc
+## Misc
 
 duck! - Spawns ducks above targetted entity
 
@@ -187,7 +198,7 @@ driving_turbo - Use vehicle turbo
 
 
 
-# Lua & Scripting
+## Lua&Scripting
 D:\\Scripts\\%S* .lua
 
 lua - Executes a chunk of lua script.script
@@ -208,7 +219,7 @@ editscripts - Toggles / sets whether scripts will be loaded individually off dis
 
 
 
-# Gamemode Stuff
+## GamemodeStuff
 completewave - Complete Current Wave immediately
 
 TogglePBM - Toggle points based multiplier rather than combo based.
@@ -217,7 +228,7 @@ givesunburstpowerup - Give sunburst power up. (givesunburstpowerup 1 Infinite Fu
 
 
 
-# Player Stuff
+## PlayerStuff
 god - Toggles player character invulnerable to damage
 
 infiniteammo - Give player infinite ammo
@@ -284,7 +295,7 @@ athleticskill
 
 
 
-# Lobby & Matchmaking
+## Lobby&Matchmaking
 maxplayers - Set max players (maxplayers 18)
 
 setminplayers - Set minimum players needed to access a public game
@@ -304,7 +315,7 @@ ForceJoinOption - Sets which players are allowed to join the session
 SetJoinOption - Usage:SetJoinOption <option> Where <option> is one of: friendsonly or inviteonly
 
 
-# Weather & Enviroment
+## Weather&Enviroment
 forcelod - forcelod #
 
 forceskytod - Forces sky time of day
@@ -338,7 +349,7 @@ toggleoutlines - Toggle the rendering of outlines
 togglewaterpass - Toggle the water render pass
 
 
-# Weapons
+## Weapons
 MP_WEPGEN03_Demp90A
 
 WEPGEN11_SticklerGrenade
@@ -470,7 +481,7 @@ WEPGAD01_Harpoon_BoltRender
 WEPGAD01_Harpoon
 
 
-# Items
+## Items
 PRPGL001_Duck
 
 PRPGL018_Commuter
@@ -612,7 +623,7 @@ PRPMS003_PowerStation_Club
 PRPMS012_Missile
 
 
-# AI & Characters
+## AI&Characters
 AICHACEL01_BCellSmg
 
 AICHACEL02_BCellRocket
@@ -738,7 +749,7 @@ AICHAREA03_Midget_BReaperAgent
 AICHAGOL01_BGoliath
 
 
-# Vehicles
+## Vehicles
 VEHCEL14_ArcticTruck
 
 VEHCEL16_HeavyTruck
