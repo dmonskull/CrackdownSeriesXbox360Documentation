@@ -28,7 +28,7 @@ Addresses to check in IDA / Ghidra / PeekPoker
 8325DFB8 - possibly the offset for checking if console command should be sent in offline/online state.
 
 
-# New list of working console commands for Crackdown:
+# Console Commands for Crackdown 1:
 luafile - Executes a lua script filescript | luafile %s%S | luafile D:\\Scripts\\%s*.lua
 
 bind - bind command to button | Example: bind 1 "allskills 1"
@@ -122,7 +122,7 @@ ToggleTactileFeedback - toggle controller vibrations from gunfire, etc.
 # Offsets
 0x82771EB0 - ConsoleCommand
 
-# New list of working console commands for Crackdown 2:
+# Console Commands for Crackdown 2:
 ## DebugStuff
 toggledebuginput - Toggle Debug Input for Final
 
