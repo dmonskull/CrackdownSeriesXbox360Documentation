@@ -3,6 +3,27 @@ _PANIM
 _LOADED
 
 
+addCallback
+AddDefaultEquipmentByName
+AddDefaultPosition
+AddEquipment
+AddEquipmentDontEquip
+AddFrameName
+AddIdealPosition
+AddInvalidPosition
+addListener
+AddPlayersTask
+addProperty
+AddRaysPS
+AddReferences
+addRequestHeader
+AddRooftopPosition
+AddTargetPosition
+AddTimeOfDayEvent
+AddViewPosition
+AddViewRooftopPosition
+
+
 CAccessWaysData
 CActionAcceleration
 CActionActivate
@@ -859,8 +880,6 @@ eWeaponEffect
 eWindEffect
 eZiplineEffect
 
-
-AddDefaultEquipmentByName
 
 
 CanAttackTarget
