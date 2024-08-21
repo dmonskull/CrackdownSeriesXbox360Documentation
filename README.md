@@ -15,6 +15,7 @@
 - [AI & Characters](#AI&Characters)
 - [Items](#Items)
 - [Vehicles](#Vehicles)
+- [Button Names & Mapping](#ButtonNames&Mapping)
 - [Extra](#Extra)
 
 # Everything you find here works for the latest update on retail versions of both games!
@@ -888,8 +889,7 @@ Vehicle_SUV_NonPlayer
 
 Vehicle_Tank_NonPlayer
 
-## Extra
-# Button Names & Mapping
+## ButtonNames&Mapping
 # Xbox 360 Controller:
 VK_XENON_DPAD_U
 
@@ -1098,6 +1098,7 @@ VK_PAD_X
 
 VK_PAD_Y
 
+## Extra
 # Minp Functionality
 
 Actions:
