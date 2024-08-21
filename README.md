@@ -301,6 +301,8 @@ ignorenetworkdisconnects - Toggle handling of network disconnects.
 
 ForceJoinOption - Sets which players are allowed to join the session
 
+SetJoinOption - Usage:SetJoinOption <option> Where <option> is one of: friendsonly or inviteonly
+
 
 # Weather & Enviroment
 forcelod - forcelod #
