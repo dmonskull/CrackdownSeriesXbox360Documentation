@@ -11,10 +11,10 @@
 - [Player Stuff](#PlayerStuff)
 - [Lobby & Matchmaking](#Lobby&Matchmaking)
 - [Weather & Enviroment](#Weather&Enviroment)
-- [Weapons](#Weapons)
-- [AI & Characters](#AI&Characters)
-- [Items](#Items)
-- [Vehicles](#Vehicles)
+- [Weapon Names](#Weapons)
+- [AI & Character Names](#AI&Characters)
+- [Item Names](#Items)
+- [Vehicle Names](#Vehicles)
 - [Extra](#Extra)
 
 # Everything you find here works for the latest update on retail versions of both games!
