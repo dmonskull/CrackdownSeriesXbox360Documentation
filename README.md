@@ -119,6 +119,8 @@ minp - Binds input key(s) to an action | example: minp press VK_XENON_DPAD_U "ch
 
 bind - bind command to button | Example: bind 1 "allskills 1"
 
+defaultlevel - Sets the default level to load. Standard: pacificcity. Usage: defaultlevel levelname
+
 # Misc
 
 duck! - Spawns ducks above enemies
@@ -296,6 +298,8 @@ forceshowbadconnectionhud - Forces the Bad connection HUD to display
 toggletargetlag - Set target to lag
 
 ignorenetworkdisconnects - Toggle handling of network disconnects.
+
+ForceJoinOption - Sets which players are allowed to join the session
 
 
 # Weather & Enviroment
