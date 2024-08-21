@@ -31,7 +31,7 @@ Addresses to check in IDA / Ghidra / PeekPoker
 8325DFB8 - possibly the offset for checking if console command should be sent in offline/online state.
 
 
-## ConsoleCommandsforCrackdown 1:
+## ConsoleCommandsforCrackdown1:
 luafile - Executes a lua script filescript | luafile %s%S | luafile D:\\Scripts\\%s*.lua
 
 bind - bind command to button | Usage: bind 1 "allskills 1"
