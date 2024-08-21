@@ -1101,19 +1101,7 @@ VK_PAD_Y
 ## Extra
 # Minp Functionality
 
-Actions:
-
-heldless
-
-heldstate
-
-state
-
-press
-
-threshless
-
-threshgreater
+Actions: heldless | heldstate | state | press | threshless | threshgreater
 
 Usage:
 minp heldless  0.30 VK_XENON_Y "character_entervehicle"
