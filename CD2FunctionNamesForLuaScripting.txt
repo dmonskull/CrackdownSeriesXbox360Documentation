@@ -1042,41 +1042,8 @@ getYear
 
 
 
-RetCharacter
-RetController
-RetInventorySize
-RetCurrentPrimaryEquipment
-RetRealCurrentPrimaryEquipment
-RetCurrentSecondaryEquipment
-RetCarriedObject
-RetAIAccuracyCone
-RetAIInitialAccuracyCone
-RetAIPathClearCone
-RetAINumberOfShotsToFullAccuracy
-RetNumberOfShotsTaken
-RetCurrentAmmoCount
-RetMaxAmmoCount
-RetLowAmmoThreshold
-RetMaxOptimalRange
-RetMinOptimalRange
-RetEquipmentFromPosition
-RetEquipmentOfType
-RetRelationship
-RetEquipmentType
-RetWeaponPriority
-RetOwner
-RetNumHands
-RetVehicleSeatID
-RetVehicleTarget
-RetCombatTarget
-RetObjectTarget
-RetHealthFraction
-RetFullHealth
-RetHealth
-RetLODLevel
-RetIsOnFire
 Ret1stPlayerCamera
-RetCameraManager
+RetAIAccuracyCone
 RetAINumberOfShotsToFullAccuracy
 RetAIPathClearCone
 RetAmount
@@ -1139,7 +1106,6 @@ RetHearingAcuteness
 RetHeight
 RetHitDirection
 RetHitLocation
-retID
 RetID
 RetInoperableContext
 RetInstigator
@@ -1167,8 +1133,8 @@ RetMaxDynamicObjectsOfType
 RetMaximumDuration
 RetMaxOptimalRange
 RetMaxReactingChars
-RetMinimumDuration
 RetMinOptimalRange
+RetMinimumDuration
 RetMissionsEnabled
 RetMovementType
 RetName
@@ -1211,10 +1177,10 @@ RetSource
 RetSpeedSquared
 RetSuccess
 RetTargetAttackPoint
-RetTargeter
 RetTargetFacePoint
 RetTargetInfo
 RetTargetPosition
+RetTargeter
 RetThreatObjectViewingDistance
 RetTime
 RetTimeOfDayManager
